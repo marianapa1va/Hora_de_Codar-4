@@ -2,14 +2,14 @@
 
 (Os Horas de Codar, escritos na linguagem Portugol, têm como objetivo desenvolver e ensinar programação de uma maneira mais "simplificada", focando na lógica de programação.)
 
-1
-Crie um programa onde o usuário possa cadastrar estudantes sem limites, e, em seguida, Se o usuário digitar "PARE" o programa deve exibir a quantidade de estudantes cadastrados e a lista com cada um deles. 
-2
-Crie uma array de planetas que inclua "Terra", "Marte", "Plutão", "Vênus", "Júpiter", "Saturno"  e, em seguida, peça ao usuário para digitar o nome de um planeta. 
+
+1. Crie um programa onde o usuário possa cadastrar estudantes sem limites, e, em seguida, Se o usuário digitar "PARE" o programa deve exibir a quantidade de estudantes cadastrados e a lista com cada um deles. 
+
+2. Crie uma array de planetas que inclua "Terra", "Marte", "Plutão", "Vênus", "Júpiter", "Saturno"  e, em seguida, peça ao usuário para digitar o nome de um planeta. 
 
 Verifique se o planeta que o usuário informou está na array e informe ao usuário.
-3
-Vamos criar uma lista de compras. 
+
+3. Vamos criar uma lista de compras. 
 
 Crie uma array de frutas, exiba-a ao usuário e, em seguida, peça ao usuário para digitar o nome de uma das frutas.
 
